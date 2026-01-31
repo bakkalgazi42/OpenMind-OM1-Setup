@@ -68,6 +68,7 @@ nano .env
 
 - Dosyada "OM-API-KEY=" şu satırı bul:
 - OpenMind üzerinden oluşturduğun kendi **API anahtarını** buraya ekle.
+- Yeni kuranlar ya da Eski api ile devam edecekler ise en alt satıra OM_WS_URL=wss://api.openmind.org/?api_key=APİKEY yazıp
 - Kaydedip çık:
 > CTRL + X → Y → ENTER
 
